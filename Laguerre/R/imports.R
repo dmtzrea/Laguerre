@@ -1,0 +1,2 @@
+#' @import orthopolynom polynom
+NULL
